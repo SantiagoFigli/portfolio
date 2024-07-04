@@ -17,4 +17,4 @@ export const dialogueData = {
   library: `There are a lot of programming books on my shelves. There is even one in English (I also speak Italian btw).
   I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
   exit: `If you want to exit SantiagoFigli's portfolio, just close the tab.`,
-}
+};
