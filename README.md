@@ -12,10 +12,10 @@
 <h2>📦 Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/your-repo-name.git</code></pre>
+    <pre><code>git clone https://github.com/SantiagoFigli/portfolio.git</code></pre>
   </li>
   <li>Navigate to the project directory:
-    <pre><code>cd your-repo-name</code></pre>
+    <pre><code>cd portfolio</code></pre>
   </li>
   <li>Install the dependencies:
     <pre><code>npm install</code></pre>
